@@ -47,6 +47,9 @@ You can ask me anything!!!. I am looking forward to absorb knowledge🧠, gain e
 </a>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
