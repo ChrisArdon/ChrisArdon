@@ -46,10 +46,13 @@ You can ask me anything!!!. I am looking forward to absorb knowledge🧠, gain e
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisArdon&show_icons=true&theme=synthwave&line_height=27" alt="Pawan's github stats"/>
 </a>
 
+<br>
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-
+### 🎶🎵I am listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=15r8bwq8ufwhiuza9x322jte2&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
