@@ -50,7 +50,8 @@ You can ask me anything!!!. I am looking forward to absorb knowledge🧠, gain e
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 18 mins    ██████████████████████▓░░   90.64 % 
+JSON     8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 ```
 <!--END_SECTION:waka-->
 
