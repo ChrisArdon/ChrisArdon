@@ -51,8 +51,7 @@ You can ask me anything!!!. I am looking forward to absorb knowledge🧠, gain e
 <!--START_SECTION:waka-->
 
 ```text
-PHP    33 mins         ████████████████████▓░░░░   83.05 %
-HTML   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
