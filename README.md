@@ -63,3 +63,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 
 ### 🎶🎵I am listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=15r8bwq8ufwhiuza9x322jte2&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+### 📚 Currently reading:
+
+<a href="https://www.goodreads.com/book/show/30228538-the-da-vinci-code" style="float: left; padding-right: 20px"><img border="0" alt="The Da Vinci Code (the Young Adult Adaptation)" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463592438l/30228538._SX98_.jpg" /></a><br><a href="https://www.goodreads.com/book/show/30228538-the-da-vinci-code">The Da Vinci Code</a> by <a href="https://www.goodreads.com/author/show/630.Dan_Brown">Dan Brown</a><br/>
