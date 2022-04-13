@@ -51,7 +51,7 @@ You can ask me anything!!!. I am looking forward to absorb knowledge🧠, gain e
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 42 mins   █████████████████████████   100.00 %
+Python   2 hrs 30 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
