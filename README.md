@@ -61,5 +61,8 @@ JSON   0 secs          ░░░░░░░░░░░░░░░░░░░
 
 ### 📚 Currently reading:
 
-<a href="https://www.goodreads.com/book/show/4900.Heart_of_Darkness" style="float: left; padding-right: 20px"><img border="0" alt="Heart of Darkness" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392799983l/4900._SX98_.jpg" /></a><br><a href="https://www.goodreads.com/book/show/4900.Heart_of_Darkness">Heart of Darkness</a> by <a href="https://www.goodreads.com/author/show/3345.Joseph_Conrad">Joseph Conrad</a><br/>
+<a href="https://www.goodreads.com/book/show/79090.Party_Monster" style="float: left; padding-right: 20px"><img border="0" alt="Party Monster: A Fabulous But True Tale of Murder in Clubland" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431288092l/79090._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/79090.Party_Monster">Party Monster: A Fabulous But True Tale of Murder in Clubland</a> by <a href="https://www.goodreads.com/author/show/44927.James_St_James">James St. James</a><br/>
 <br /><br />
+
+<br/><br/>
+<a href="https://www.goodreads.com/review/list/109011246-chris-ardon">View all my reviews</a>
