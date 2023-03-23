@@ -3,7 +3,7 @@
 Computer Science Engineering student 👨🏽‍💻. I have active experience in logical thinking 🧠 and a high capability to solve problems ✔. 
 
 - 🌱 I’m currently learning Python, HTML, CSS and PHP.
-- 🥅 2022 Goals: Get a Python certification and progress in my cybersecurity knowledge.
+- 🥅 2023 Goals: Get a Python certification and progress in my cybersecurity knowledge.
 - ⚡ Fun fact: I love reading 📖 and playing video games 🎮.
 
 ### Languages and Tools:
@@ -61,7 +61,7 @@ No activity tracked
 
 ### 📚 Currently reading:
 
-<a href="https://www.goodreads.com/book/show/79090.Party_Monster" style="float: left; padding-right: 20px"><img border="0" alt="Party Monster: A Fabulous But True Tale of Murder in Clubland" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431288092l/79090._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/79090.Party_Monster">Party Monster: A Fabulous But True Tale of Murder in Clubland</a> by <a href="https://www.goodreads.com/author/show/44927.James_St_James">James St. James</a><br/>
+<a href="https://www.goodreads.com/book/show/20527133-superintelligence" style="float: left; padding-right: 20px"><img border="0" alt="Superintelligence: Paths, Dangers, Strategies" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400884046l/20527133._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/20527133-superintelligence">Superintelligence: Paths, Dangers, Strategies</a> by <a href="https://www.goodreads.com/author/show/608087.Nick_Bostrom">Nick Bostrom</a><br/>
 <br /><br />
 
 <br/><br/>
